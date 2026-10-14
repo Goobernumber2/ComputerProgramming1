@@ -2,44 +2,39 @@
 
 ![calc](https://github.com/Goobernumber2/ComputerProgramming1/blob/main/images/calc26.png?raw=true)
 
-[]()
+[link to source code](https://github.com/Goobernumber2/ComputerProgramming1/tree/main/src/CalculatorBellsAndWhistles)
 
 # [Your Calculator's Name]
 
 ## Overview
-[Write 2–3 sentences explaining what you are building
-and what a user can do with it.]
+[I've made a calculator that presents the numbers properly in order. Unfortunately the operator buttons will not render.]
 
 ## Current Status
 Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+- [Numbers]
+- [Decimal]
 
 Still in progress:
-- [A requirement you are finishing]
+- [rendering operator buttons]
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
+Processing version: [most recent]
 
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+[The file is CalculatorBellsAndWhistles]
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+[You can click them. and they will appear when the mouse is released]
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+[Currently, no keys are working. I am experiencing a lot of logic errors]
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+[CalculatorBellsAndWhistles]
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+[testing was as i expected. number buttons function wonderfully, but operator buttons do not.]
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+[I will see the operator buttons rendered in the next try.]
